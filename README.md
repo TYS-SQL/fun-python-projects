@@ -30,6 +30,14 @@ _File: [`03_motivational_quotes.ipynb`](https://github.com/TYS-SQL/fun-python-pr
 
 ---
 
+### 4. 🎲 Number Guessing Game  
+Try to guess the number randomly chosen by the computer between 1 and 100 in limited attempts.  
+**Topics:** `input`, `loops`, `conditionals`, `random`  
+_File: [`04_number_guessing_game.ipynb`](https://github.com/TYS-SQL/fun-python-projects/blob/main/04_number_guessing_game.ipynb)_  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TYS-SQL/fun-python-projects/blob/main/04_number_guessing_game.ipynb)
+
+---
+
 ## 🚀 How to Run These Projects
 
 ### ✅ Option 1: Run in Google Colab (Recommended - No setup required)
